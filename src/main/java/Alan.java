@@ -2,7 +2,7 @@ public class Alan {
     private boolean doesItWork;
 
     public Alan() {
-        this.doesItWork = false;
+        this.doesItWork = true;
     }
 
     public boolean isDoesItWork() {
